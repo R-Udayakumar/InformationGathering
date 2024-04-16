@@ -39,7 +39,7 @@ Ping command is available on Windows as well as on Linux OS
 
 
 ## WEBARCHIEVE:
-![image](https://github.com/Safeeq-Fazil/InformationGathering/assets/118680361/f8a8c51c-ec47-47be-b632-fe9e251fd2e0)
+![Screenshot (10)](https://github.com/R-Udayakumar/InformationGathering/assets/118708024/c2dd8d7f-6b38-41d6-913b-5a668f057dee)
 
 
 ## RESULT:
