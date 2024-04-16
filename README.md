@@ -35,8 +35,8 @@ Ping command is available on Windows as well as on Linux OS
 ![image](https://github.com/Safeeq-Fazil/InformationGathering/assets/118680361/be3b9b94-4340-4c74-97c8-29d55ef7d406)
 
 ## IP2LOCATION:
+![Screenshot (4)](https://github.com/R-Udayakumar/InformationGathering/assets/118708024/7835639e-453c-4ece-b8f3-ba69259a51eb)
 
-![ip locator](https://github.com/Safeeq-Fazil/InformationGathering/assets/118680361/8a518454-459b-419c-9d9f-80d817e379c5)
 
 ## WEBARCHIEVE:
 ![image](https://github.com/Safeeq-Fazil/InformationGathering/assets/118680361/f8a8c51c-ec47-47be-b632-fe9e251fd2e0)
